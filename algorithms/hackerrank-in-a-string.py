@@ -6,6 +6,7 @@ import random
 import re
 import sys
 
+
 #
 # Complete the 'hackerrankInString' function below.
 #
@@ -14,14 +15,12 @@ import sys
 #
 
 def hackerrankInString(s):
-    result = []
-    for char in s:
-        if char not in result and char in "hackerrank":
-            result.append(char)
-    if "hackerrank"=="".join(result):
-        return "YES"
-    else:
-        return "NO"
+    for char in "hackerrank":
+        if char in s:
+            s = s[s.find(char) + 1:]
+        else:
+            return "NO"
+    return "YES"
 
 
 if __name__ == '__main__':
