@@ -1,2 +1,2 @@
 # hackerrank-java
-My solutions to select HackerRank Java problems.
+Code I wrote while solving select HackerRank Java problems.
