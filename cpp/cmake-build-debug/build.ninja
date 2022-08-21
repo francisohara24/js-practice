@@ -55,14 +55,128 @@ build CMakeFiles/cpp.dir/main.cpp.obj: CXX_COMPILER__cpp_Debug C$:/Users/franc/O
   OBJECT_DIR = CMakeFiles\cpp.dir
   OBJECT_FILE_DIR = CMakeFiles\cpp.dir
 
-build CMakeFiles/cpp.dir/1_say-hello-world-with-cpp.cpp.obj: CXX_COMPILER__cpp_Debug C$:/Users/franc/OneDrive/PROJECTS/SWE$ Projects/hackerrank/cpp/1_say-hello-world-with-cpp.cpp || cmake_object_order_depends_target_cpp
-  DEP_FILE = CMakeFiles\cpp.dir\1_say-hello-world-with-cpp.cpp.obj.d
+build CMakeFiles/cpp.dir/1-say-hello-world-with-cpp.cpp.obj: CXX_COMPILER__cpp_Debug C$:/Users/franc/OneDrive/PROJECTS/SWE$ Projects/hackerrank/cpp/1-say-hello-world-with-cpp.cpp || cmake_object_order_depends_target_cpp
+  DEP_FILE = CMakeFiles\cpp.dir\1-say-hello-world-with-cpp.cpp.obj.d
   FLAGS = -g -std=gnu++23
   OBJECT_DIR = CMakeFiles\cpp.dir
   OBJECT_FILE_DIR = CMakeFiles\cpp.dir
 
-build CMakeFiles/cpp.dir/2_input-and-output.cpp.obj: CXX_COMPILER__cpp_Debug C$:/Users/franc/OneDrive/PROJECTS/SWE$ Projects/hackerrank/cpp/2_input-and-output.cpp || cmake_object_order_depends_target_cpp
-  DEP_FILE = CMakeFiles\cpp.dir\2_input-and-output.cpp.obj.d
+build CMakeFiles/cpp.dir/2-input-and-output.cpp.obj: CXX_COMPILER__cpp_Debug C$:/Users/franc/OneDrive/PROJECTS/SWE$ Projects/hackerrank/cpp/2-input-and-output.cpp || cmake_object_order_depends_target_cpp
+  DEP_FILE = CMakeFiles\cpp.dir\2-input-and-output.cpp.obj.d
+  FLAGS = -g -std=gnu++23
+  OBJECT_DIR = CMakeFiles\cpp.dir
+  OBJECT_FILE_DIR = CMakeFiles\cpp.dir
+
+build CMakeFiles/cpp.dir/3-basic-data-types.cpp.obj: CXX_COMPILER__cpp_Debug C$:/Users/franc/OneDrive/PROJECTS/SWE$ Projects/hackerrank/cpp/3-basic-data-types.cpp || cmake_object_order_depends_target_cpp
+  DEP_FILE = CMakeFiles\cpp.dir\3-basic-data-types.cpp.obj.d
+  FLAGS = -g -std=gnu++23
+  OBJECT_DIR = CMakeFiles\cpp.dir
+  OBJECT_FILE_DIR = CMakeFiles\cpp.dir
+
+build CMakeFiles/cpp.dir/4-conditional-statements.cpp.obj: CXX_COMPILER__cpp_Debug C$:/Users/franc/OneDrive/PROJECTS/SWE$ Projects/hackerrank/cpp/4-conditional-statements.cpp || cmake_object_order_depends_target_cpp
+  DEP_FILE = CMakeFiles\cpp.dir\4-conditional-statements.cpp.obj.d
+  FLAGS = -g -std=gnu++23
+  OBJECT_DIR = CMakeFiles\cpp.dir
+  OBJECT_FILE_DIR = CMakeFiles\cpp.dir
+
+build CMakeFiles/cpp.dir/5-for-loop.cpp.obj: CXX_COMPILER__cpp_Debug C$:/Users/franc/OneDrive/PROJECTS/SWE$ Projects/hackerrank/cpp/5-for-loop.cpp || cmake_object_order_depends_target_cpp
+  DEP_FILE = CMakeFiles\cpp.dir\5-for-loop.cpp.obj.d
+  FLAGS = -g -std=gnu++23
+  OBJECT_DIR = CMakeFiles\cpp.dir
+  OBJECT_FILE_DIR = CMakeFiles\cpp.dir
+
+build CMakeFiles/cpp.dir/6-functions.cpp.obj: CXX_COMPILER__cpp_Debug C$:/Users/franc/OneDrive/PROJECTS/SWE$ Projects/hackerrank/cpp/6-functions.cpp || cmake_object_order_depends_target_cpp
+  DEP_FILE = CMakeFiles\cpp.dir\6-functions.cpp.obj.d
+  FLAGS = -g -std=gnu++23
+  OBJECT_DIR = CMakeFiles\cpp.dir
+  OBJECT_FILE_DIR = CMakeFiles\cpp.dir
+
+build CMakeFiles/cpp.dir/7-pointer.cpp.obj: CXX_COMPILER__cpp_Debug C$:/Users/franc/OneDrive/PROJECTS/SWE$ Projects/hackerrank/cpp/7-pointer.cpp || cmake_object_order_depends_target_cpp
+  DEP_FILE = CMakeFiles\cpp.dir\7-pointer.cpp.obj.d
+  FLAGS = -g -std=gnu++23
+  OBJECT_DIR = CMakeFiles\cpp.dir
+  OBJECT_FILE_DIR = CMakeFiles\cpp.dir
+
+build CMakeFiles/cpp.dir/8-arrays-introduction.cpp.obj: CXX_COMPILER__cpp_Debug C$:/Users/franc/OneDrive/PROJECTS/SWE$ Projects/hackerrank/cpp/8-arrays-introduction.cpp || cmake_object_order_depends_target_cpp
+  DEP_FILE = CMakeFiles\cpp.dir\8-arrays-introduction.cpp.obj.d
+  FLAGS = -g -std=gnu++23
+  OBJECT_DIR = CMakeFiles\cpp.dir
+  OBJECT_FILE_DIR = CMakeFiles\cpp.dir
+
+build CMakeFiles/cpp.dir/9-variable-sized-arrays.cpp.obj: CXX_COMPILER__cpp_Debug C$:/Users/franc/OneDrive/PROJECTS/SWE$ Projects/hackerrank/cpp/9-variable-sized-arrays.cpp || cmake_object_order_depends_target_cpp
+  DEP_FILE = CMakeFiles\cpp.dir\9-variable-sized-arrays.cpp.obj.d
+  FLAGS = -g -std=gnu++23
+  OBJECT_DIR = CMakeFiles\cpp.dir
+  OBJECT_FILE_DIR = CMakeFiles\cpp.dir
+
+build CMakeFiles/cpp.dir/10-string-stream.cpp.obj: CXX_COMPILER__cpp_Debug C$:/Users/franc/OneDrive/PROJECTS/SWE$ Projects/hackerrank/cpp/10-string-stream.cpp || cmake_object_order_depends_target_cpp
+  DEP_FILE = CMakeFiles\cpp.dir\10-string-stream.cpp.obj.d
+  FLAGS = -g -std=gnu++23
+  OBJECT_DIR = CMakeFiles\cpp.dir
+  OBJECT_FILE_DIR = CMakeFiles\cpp.dir
+
+build CMakeFiles/cpp.dir/11-strings.cpp.obj: CXX_COMPILER__cpp_Debug C$:/Users/franc/OneDrive/PROJECTS/SWE$ Projects/hackerrank/cpp/11-strings.cpp || cmake_object_order_depends_target_cpp
+  DEP_FILE = CMakeFiles\cpp.dir\11-strings.cpp.obj.d
+  FLAGS = -g -std=gnu++23
+  OBJECT_DIR = CMakeFiles\cpp.dir
+  OBJECT_FILE_DIR = CMakeFiles\cpp.dir
+
+build CMakeFiles/cpp.dir/12-structs.cpp.obj: CXX_COMPILER__cpp_Debug C$:/Users/franc/OneDrive/PROJECTS/SWE$ Projects/hackerrank/cpp/12-structs.cpp || cmake_object_order_depends_target_cpp
+  DEP_FILE = CMakeFiles\cpp.dir\12-structs.cpp.obj.d
+  FLAGS = -g -std=gnu++23
+  OBJECT_DIR = CMakeFiles\cpp.dir
+  OBJECT_FILE_DIR = CMakeFiles\cpp.dir
+
+build CMakeFiles/cpp.dir/13-class.cpp.obj: CXX_COMPILER__cpp_Debug C$:/Users/franc/OneDrive/PROJECTS/SWE$ Projects/hackerrank/cpp/13-class.cpp || cmake_object_order_depends_target_cpp
+  DEP_FILE = CMakeFiles\cpp.dir\13-class.cpp.obj.d
+  FLAGS = -g -std=gnu++23
+  OBJECT_DIR = CMakeFiles\cpp.dir
+  OBJECT_FILE_DIR = CMakeFiles\cpp.dir
+
+build CMakeFiles/cpp.dir/14-classes-and-objects.cpp.obj: CXX_COMPILER__cpp_Debug C$:/Users/franc/OneDrive/PROJECTS/SWE$ Projects/hackerrank/cpp/14-classes-and-objects.cpp || cmake_object_order_depends_target_cpp
+  DEP_FILE = CMakeFiles\cpp.dir\14-classes-and-objects.cpp.obj.d
+  FLAGS = -g -std=gnu++23
+  OBJECT_DIR = CMakeFiles\cpp.dir
+  OBJECT_FILE_DIR = CMakeFiles\cpp.dir
+
+build CMakeFiles/cpp.dir/15-inherited-code.cpp.obj: CXX_COMPILER__cpp_Debug C$:/Users/franc/OneDrive/PROJECTS/SWE$ Projects/hackerrank/cpp/15-inherited-code.cpp || cmake_object_order_depends_target_cpp
+  DEP_FILE = CMakeFiles\cpp.dir\15-inherited-code.cpp.obj.d
+  FLAGS = -g -std=gnu++23
+  OBJECT_DIR = CMakeFiles\cpp.dir
+  OBJECT_FILE_DIR = CMakeFiles\cpp.dir
+
+build CMakeFiles/cpp.dir/16-exceptional-server.cpp.obj: CXX_COMPILER__cpp_Debug C$:/Users/franc/OneDrive/PROJECTS/SWE$ Projects/hackerrank/cpp/16-exceptional-server.cpp || cmake_object_order_depends_target_cpp
+  DEP_FILE = CMakeFiles\cpp.dir\16-exceptional-server.cpp.obj.d
+  FLAGS = -g -std=gnu++23
+  OBJECT_DIR = CMakeFiles\cpp.dir
+  OBJECT_FILE_DIR = CMakeFiles\cpp.dir
+
+build CMakeFiles/cpp.dir/17-virtual-functions.cpp.obj: CXX_COMPILER__cpp_Debug C$:/Users/franc/OneDrive/PROJECTS/SWE$ Projects/hackerrank/cpp/17-virtual-functions.cpp || cmake_object_order_depends_target_cpp
+  DEP_FILE = CMakeFiles\cpp.dir\17-virtual-functions.cpp.obj.d
+  FLAGS = -g -std=gnu++23
+  OBJECT_DIR = CMakeFiles\cpp.dir
+  OBJECT_FILE_DIR = CMakeFiles\cpp.dir
+
+build CMakeFiles/cpp.dir/18-vector-sort.cpp.obj: CXX_COMPILER__cpp_Debug C$:/Users/franc/OneDrive/PROJECTS/SWE$ Projects/hackerrank/cpp/18-vector-sort.cpp || cmake_object_order_depends_target_cpp
+  DEP_FILE = CMakeFiles\cpp.dir\18-vector-sort.cpp.obj.d
+  FLAGS = -g -std=gnu++23
+  OBJECT_DIR = CMakeFiles\cpp.dir
+  OBJECT_FILE_DIR = CMakeFiles\cpp.dir
+
+build CMakeFiles/cpp.dir/19-vector-erase.cpp.obj: CXX_COMPILER__cpp_Debug C$:/Users/franc/OneDrive/PROJECTS/SWE$ Projects/hackerrank/cpp/19-vector-erase.cpp || cmake_object_order_depends_target_cpp
+  DEP_FILE = CMakeFiles\cpp.dir\19-vector-erase.cpp.obj.d
+  FLAGS = -g -std=gnu++23
+  OBJECT_DIR = CMakeFiles\cpp.dir
+  OBJECT_FILE_DIR = CMakeFiles\cpp.dir
+
+build CMakeFiles/cpp.dir/20-rectangle-area.cpp.obj: CXX_COMPILER__cpp_Debug C$:/Users/franc/OneDrive/PROJECTS/SWE$ Projects/hackerrank/cpp/20-rectangle-area.cpp || cmake_object_order_depends_target_cpp
+  DEP_FILE = CMakeFiles\cpp.dir\20-rectangle-area.cpp.obj.d
+  FLAGS = -g -std=gnu++23
+  OBJECT_DIR = CMakeFiles\cpp.dir
+  OBJECT_FILE_DIR = CMakeFiles\cpp.dir
+
+build CMakeFiles/cpp.dir/21-multi-level-inheritance.cpp.obj: CXX_COMPILER__cpp_Debug C$:/Users/franc/OneDrive/PROJECTS/SWE$ Projects/hackerrank/cpp/21-multi-level-inheritance.cpp || cmake_object_order_depends_target_cpp
+  DEP_FILE = CMakeFiles\cpp.dir\21-multi-level-inheritance.cpp.obj.d
   FLAGS = -g -std=gnu++23
   OBJECT_DIR = CMakeFiles\cpp.dir
   OBJECT_FILE_DIR = CMakeFiles\cpp.dir
@@ -75,7 +189,7 @@ build CMakeFiles/cpp.dir/2_input-and-output.cpp.obj: CXX_COMPILER__cpp_Debug C$:
 #############################################
 # Link the executable cpp.exe
 
-build cpp.exe: CXX_EXECUTABLE_LINKER__cpp_Debug CMakeFiles/cpp.dir/main.cpp.obj CMakeFiles/cpp.dir/1_say-hello-world-with-cpp.cpp.obj CMakeFiles/cpp.dir/2_input-and-output.cpp.obj
+build cpp.exe: CXX_EXECUTABLE_LINKER__cpp_Debug CMakeFiles/cpp.dir/main.cpp.obj CMakeFiles/cpp.dir/1-say-hello-world-with-cpp.cpp.obj CMakeFiles/cpp.dir/2-input-and-output.cpp.obj CMakeFiles/cpp.dir/3-basic-data-types.cpp.obj CMakeFiles/cpp.dir/4-conditional-statements.cpp.obj CMakeFiles/cpp.dir/5-for-loop.cpp.obj CMakeFiles/cpp.dir/6-functions.cpp.obj CMakeFiles/cpp.dir/7-pointer.cpp.obj CMakeFiles/cpp.dir/8-arrays-introduction.cpp.obj CMakeFiles/cpp.dir/9-variable-sized-arrays.cpp.obj CMakeFiles/cpp.dir/10-string-stream.cpp.obj CMakeFiles/cpp.dir/11-strings.cpp.obj CMakeFiles/cpp.dir/12-structs.cpp.obj CMakeFiles/cpp.dir/13-class.cpp.obj CMakeFiles/cpp.dir/14-classes-and-objects.cpp.obj CMakeFiles/cpp.dir/15-inherited-code.cpp.obj CMakeFiles/cpp.dir/16-exceptional-server.cpp.obj CMakeFiles/cpp.dir/17-virtual-functions.cpp.obj CMakeFiles/cpp.dir/18-vector-sort.cpp.obj CMakeFiles/cpp.dir/19-vector-erase.cpp.obj CMakeFiles/cpp.dir/20-rectangle-area.cpp.obj CMakeFiles/cpp.dir/21-multi-level-inheritance.cpp.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\cpp.dir
