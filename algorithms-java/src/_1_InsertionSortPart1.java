@@ -10,7 +10,7 @@ public class _1_InsertionSortPart1{
                 break;
             }
             else {
-                arr.set(i, arr.get(i-1))
+                arr.set(i, arr.get(i-1));
             }
         }
     }
