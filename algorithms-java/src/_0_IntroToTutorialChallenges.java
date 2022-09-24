@@ -4,7 +4,7 @@ import java.util.stream.*;
 import static java.util.stream.Collectors.joining;
 import static java.util.stream.Collectors.toList;
 
-class Result {
+class Result0 {
 
     /*
      * Complete the 'introTutorial' function below.
@@ -43,7 +43,7 @@ public class _0_IntroToTutorialChallenges {
                 .map(Integer::parseInt)
                 .collect(toList());
 
-        int result = Result.introTutorial(V, arr);
+        int result = Result0.introTutorial(V, arr);
 
         bufferedWriter.write(String.valueOf(result));
         bufferedWriter.newLine();
