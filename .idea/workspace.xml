@@ -1,8 +1,286 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="a4f201c4-18ce-4a8c-a8cf-99d557286a11" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/leetcode/0-two-sum.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/0-two-sum.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hackerrank/10-days-js/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hackerrank/10-days-js/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hackerrank/10-days-js/.idea/hackerrank-10-days-js.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hackerrank/10-days-js/.idea/jsLibraryMappings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hackerrank/10-days-js/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hackerrank/10-days-js/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hackerrank/10-days-js/0-data-types.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hackerrank/10-days-js/0-hello-world.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hackerrank/10-days-js/1-arithmetic-operators.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hackerrank/10-days-js/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hackerrank/10-days-js/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hackerrank/algorithms-java/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hackerrank/algorithms-java/.idea/jpa-buddy.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hackerrank/algorithms-java/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hackerrank/algorithms-java/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hackerrank/algorithms-java/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hackerrank/algorithms-java/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hackerrank/algorithms-java/algorithms-java.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hackerrank/algorithms-java/out/production/algorithms-java/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hackerrank/algorithms-java/out/production/algorithms-java/_0_IntroToTutorialChallenges.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hackerrank/algorithms-java/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hackerrank/algorithms-java/src/_0_IntroToTutorialChallenges.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hackerrank/algorithms-java/src/_1_InsertionSortPart1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hackerrank/algorithms-java/src/_2_InsertionSortPart2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hackerrank/algorithms-py/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/hackerrank/algorithms/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hackerrank/algorithms-py/.idea/algorithms.iml" beforeDir="false" afterPath="$PROJECT_DIR$/hackerrank/algorithms/.idea/algorithms.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hackerrank/algorithms-py/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/hackerrank/algorithms/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hackerrank/algorithms-py/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/hackerrank/algorithms/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hackerrank/algorithms-py/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/hackerrank/algorithms/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hackerrank/algorithms-py/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/hackerrank/algorithms/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hackerrank/algorithms-py/0-hr-camelcase.py" beforeDir="false" afterPath="$PROJECT_DIR$/hackerrank/algorithms/0-hr-camelcase.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hackerrank/algorithms-py/1-hr-mars-exploration.py" beforeDir="false" afterPath="$PROJECT_DIR$/hackerrank/algorithms/1-hr-mars-exploration.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hackerrank/algorithms-py/10-anagram.py" beforeDir="false" afterPath="$PROJECT_DIR$/hackerrank/algorithms/10-anagram.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hackerrank/algorithms-py/11-game-of-thrones-I.py" beforeDir="false" afterPath="$PROJECT_DIR$/hackerrank/algorithms/11-game-of-thrones-I.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hackerrank/algorithms-py/12-two-strings.py" beforeDir="false" afterPath="$PROJECT_DIR$/hackerrank/algorithms/12-two-strings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hackerrank/algorithms-py/13-string-construction.py" beforeDir="false" afterPath="$PROJECT_DIR$/hackerrank/algorithms/13-string-construction.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hackerrank/algorithms-py/14-making-anagrams.py" beforeDir="false" afterPath="$PROJECT_DIR$/hackerrank/algorithms/14-making-anagrams.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hackerrank/algorithms-py/15-sherlock-and-the-valid-string.py" beforeDir="false" afterPath="$PROJECT_DIR$/hackerrank/algorithms/15-sherlock-and-the-valid-string.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hackerrank/algorithms-py/16-highest-value-palindrome.py" beforeDir="false" afterPath="$PROJECT_DIR$/hackerrank/algorithms/16-highest-value-palindrome.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hackerrank/algorithms-py/17-super-reduced-string.py" beforeDir="false" afterPath="$PROJECT_DIR$/hackerrank/algorithms/17-super-reduced-string.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hackerrank/algorithms-py/2-hackerrank-in-a-string.py" beforeDir="false" afterPath="$PROJECT_DIR$/hackerrank/algorithms/2-hackerrank-in-a-string.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hackerrank/algorithms-py/3-pangrams.py" beforeDir="false" afterPath="$PROJECT_DIR$/hackerrank/algorithms/3-pangrams.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hackerrank/algorithms-py/4-funny-string.py" beforeDir="false" afterPath="$PROJECT_DIR$/hackerrank/algorithms/4-funny-string.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hackerrank/algorithms-py/5-alternating-characters.py" beforeDir="false" afterPath="$PROJECT_DIR$/hackerrank/algorithms/5-alternating-characters.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hackerrank/algorithms-py/6-gemstones.py" beforeDir="false" afterPath="$PROJECT_DIR$/hackerrank/algorithms/6-gemstones.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hackerrank/algorithms-py/7-beautiful-binary-string.py" beforeDir="false" afterPath="$PROJECT_DIR$/hackerrank/algorithms/7-beautiful-binary-string.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hackerrank/algorithms-py/8-the-love-letter-mystery.py" beforeDir="false" afterPath="$PROJECT_DIR$/hackerrank/algorithms/8-the-love-letter-mystery.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hackerrank/algorithms-py/9-palindrome-index.py" beforeDir="false" afterPath="$PROJECT_DIR$/hackerrank/algorithms/9-palindrome-index.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hackerrank/algorithms-py/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/hackerrank/algorithms/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hackerrank/algorithms-py/balanced-paranthesis.py" beforeDir="false" afterPath="$PROJECT_DIR$/hackerrank/algorithms/balanced-paranthesis.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hackerrank/algorithms-py/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/hackerrank/algorithms/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hackerrank/cpp/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hackerrank/cpp/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hackerrank/cpp/.idea/cpp.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hackerrank/cpp/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hackerrank/cpp/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hackerrank/cpp/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hackerrank/cpp/1-say-hello-world-with-cpp.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hackerrank/cpp/10-string-stream.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hackerrank/cpp/11-strings.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hackerrank/cpp/12-structs.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hackerrank/cpp/13-class.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hackerrank/cpp/14-classes-and-objects.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hackerrank/cpp/15-inherited-code.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hackerrank/cpp/16-exceptional-server.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hackerrank/cpp/17-virtual-functions.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hackerrank/cpp/18-vector-sort.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hackerrank/cpp/19-vector-erase.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hackerrank/cpp/2-input-and-output.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hackerrank/cpp/20-rectangle-area.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hackerrank/cpp/21-multi-level-inheritance.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hackerrank/cpp/3-basic-data-types.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hackerrank/cpp/4-conditional-statements.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hackerrank/cpp/5-for-loop.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hackerrank/cpp/6-functions.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hackerrank/cpp/7-pointer.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hackerrank/cpp/8-arrays-introduction.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hackerrank/cpp/9-variable-sized-arrays.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hackerrank/cpp/CMakeLists.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hackerrank/cpp/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hackerrank/cpp/cmake-build-debug/.cmake/api/v1/query/cache-v2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hackerrank/cpp/cmake-build-debug/.cmake/api/v1/query/cmakeFiles-v1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hackerrank/cpp/cmake-build-debug/.cmake/api/v1/query/codemodel-v2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hackerrank/cpp/cmake-build-debug/.cmake/api/v1/query/toolchains-v1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hackerrank/cpp/cmake-build-debug/.cmake/api/v1/reply/cache-v2-3c2fa834df3d4f9afbe2.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hackerrank/cpp/cmake-build-debug/.cmake/api/v1/reply/cmakeFiles-v1-83c2692d5a03137a3bf3.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hackerrank/cpp/cmake-build-debug/.cmake/api/v1/reply/codemodel-v2-48e84b53a9c6e9272b72.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hackerrank/cpp/cmake-build-debug/.cmake/api/v1/reply/directory-.-Debug-d0094a50bb2071803777.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hackerrank/cpp/cmake-build-debug/.cmake/api/v1/reply/index-2022-09-16T04-10-27-0541.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hackerrank/cpp/cmake-build-debug/.cmake/api/v1/reply/target-cpp-Debug-f4595e06c479ca0a3b26.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hackerrank/cpp/cmake-build-debug/.cmake/api/v1/reply/toolchains-v1-2aa95edb22efbe90c0ad.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hackerrank/cpp/cmake-build-debug/.ninja_deps" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hackerrank/cpp/cmake-build-debug/.ninja_log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hackerrank/cpp/cmake-build-debug/CMakeCache.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hackerrank/cpp/cmake-build-debug/CMakeFiles/3.23.2/CMakeCCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hackerrank/cpp/cmake-build-debug/CMakeFiles/3.23.2/CMakeCXXCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hackerrank/cpp/cmake-build-debug/CMakeFiles/3.23.2/CMakeDetermineCompilerABI_C.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hackerrank/cpp/cmake-build-debug/CMakeFiles/3.23.2/CMakeDetermineCompilerABI_CXX.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hackerrank/cpp/cmake-build-debug/CMakeFiles/3.23.2/CMakeRCCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hackerrank/cpp/cmake-build-debug/CMakeFiles/3.23.2/CMakeSystem.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hackerrank/cpp/cmake-build-debug/CMakeFiles/3.23.2/CompilerIdC/CMakeCCompilerId.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hackerrank/cpp/cmake-build-debug/CMakeFiles/3.23.2/CompilerIdC/a.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hackerrank/cpp/cmake-build-debug/CMakeFiles/3.23.2/CompilerIdCXX/CMakeCXXCompilerId.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hackerrank/cpp/cmake-build-debug/CMakeFiles/3.23.2/CompilerIdCXX/a.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hackerrank/cpp/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hackerrank/cpp/cmake-build-debug/CMakeFiles/CMakeOutput.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hackerrank/cpp/cmake-build-debug/CMakeFiles/Makefile.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hackerrank/cpp/cmake-build-debug/CMakeFiles/Makefile2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hackerrank/cpp/cmake-build-debug/CMakeFiles/Progress/1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hackerrank/cpp/cmake-build-debug/CMakeFiles/Progress/10" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hackerrank/cpp/cmake-build-debug/CMakeFiles/Progress/11" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hackerrank/cpp/cmake-build-debug/CMakeFiles/Progress/12" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hackerrank/cpp/cmake-build-debug/CMakeFiles/Progress/13" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hackerrank/cpp/cmake-build-debug/CMakeFiles/Progress/14" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hackerrank/cpp/cmake-build-debug/CMakeFiles/Progress/15" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hackerrank/cpp/cmake-build-debug/CMakeFiles/Progress/16" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hackerrank/cpp/cmake-build-debug/CMakeFiles/Progress/17" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hackerrank/cpp/cmake-build-debug/CMakeFiles/Progress/18" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hackerrank/cpp/cmake-build-debug/CMakeFiles/Progress/19" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hackerrank/cpp/cmake-build-debug/CMakeFiles/Progress/2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hackerrank/cpp/cmake-build-debug/CMakeFiles/Progress/20" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hackerrank/cpp/cmake-build-debug/CMakeFiles/Progress/21" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hackerrank/cpp/cmake-build-debug/CMakeFiles/Progress/22" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hackerrank/cpp/cmake-build-debug/CMakeFiles/Progress/23" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hackerrank/cpp/cmake-build-debug/CMakeFiles/Progress/3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hackerrank/cpp/cmake-build-debug/CMakeFiles/Progress/4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hackerrank/cpp/cmake-build-debug/CMakeFiles/Progress/5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hackerrank/cpp/cmake-build-debug/CMakeFiles/Progress/6" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hackerrank/cpp/cmake-build-debug/CMakeFiles/Progress/7" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hackerrank/cpp/cmake-build-debug/CMakeFiles/Progress/8" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hackerrank/cpp/cmake-build-debug/CMakeFiles/Progress/9" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hackerrank/cpp/cmake-build-debug/CMakeFiles/Progress/count.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hackerrank/cpp/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hackerrank/cpp/cmake-build-debug/CMakeFiles/clion-environment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hackerrank/cpp/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hackerrank/cpp/cmake-build-debug/CMakeFiles/cmake.check_cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hackerrank/cpp/cmake-build-debug/CMakeFiles/cpp.dir/1-say-hello-world-with-cpp.cpp.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hackerrank/cpp/cmake-build-debug/CMakeFiles/cpp.dir/1-say-hello-world-with-cpp.cpp.obj.d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hackerrank/cpp/cmake-build-debug/CMakeFiles/cpp.dir/10-string-stream.cpp.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hackerrank/cpp/cmake-build-debug/CMakeFiles/cpp.dir/10-string-stream.cpp.obj.d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hackerrank/cpp/cmake-build-debug/CMakeFiles/cpp.dir/11-strings.cpp.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hackerrank/cpp/cmake-build-debug/CMakeFiles/cpp.dir/11-strings.cpp.obj.d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hackerrank/cpp/cmake-build-debug/CMakeFiles/cpp.dir/12-structs.cpp.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hackerrank/cpp/cmake-build-debug/CMakeFiles/cpp.dir/12-structs.cpp.obj.d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hackerrank/cpp/cmake-build-debug/CMakeFiles/cpp.dir/13-class.cpp.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hackerrank/cpp/cmake-build-debug/CMakeFiles/cpp.dir/13-class.cpp.obj.d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hackerrank/cpp/cmake-build-debug/CMakeFiles/cpp.dir/14-classes-and-objects.cpp.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hackerrank/cpp/cmake-build-debug/CMakeFiles/cpp.dir/14-classes-and-objects.cpp.obj.d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hackerrank/cpp/cmake-build-debug/CMakeFiles/cpp.dir/15-inherited-code.cpp.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hackerrank/cpp/cmake-build-debug/CMakeFiles/cpp.dir/15-inherited-code.cpp.obj.d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hackerrank/cpp/cmake-build-debug/CMakeFiles/cpp.dir/16-exceptional-server.cpp.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hackerrank/cpp/cmake-build-debug/CMakeFiles/cpp.dir/16-exceptional-server.cpp.obj.d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hackerrank/cpp/cmake-build-debug/CMakeFiles/cpp.dir/17-virtual-functions.cpp.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hackerrank/cpp/cmake-build-debug/CMakeFiles/cpp.dir/17-virtual-functions.cpp.obj.d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hackerrank/cpp/cmake-build-debug/CMakeFiles/cpp.dir/18-vector-sort.cpp.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hackerrank/cpp/cmake-build-debug/CMakeFiles/cpp.dir/18-vector-sort.cpp.obj.d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hackerrank/cpp/cmake-build-debug/CMakeFiles/cpp.dir/19-vector-erase.cpp.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hackerrank/cpp/cmake-build-debug/CMakeFiles/cpp.dir/19-vector-erase.cpp.obj.d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hackerrank/cpp/cmake-build-debug/CMakeFiles/cpp.dir/2-input-and-output.cpp.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hackerrank/cpp/cmake-build-debug/CMakeFiles/cpp.dir/2-input-and-output.cpp.obj.d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hackerrank/cpp/cmake-build-debug/CMakeFiles/cpp.dir/20-rectangle-area.cpp.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hackerrank/cpp/cmake-build-debug/CMakeFiles/cpp.dir/20-rectangle-area.cpp.obj.d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hackerrank/cpp/cmake-build-debug/CMakeFiles/cpp.dir/21-multi-level-inheritance.cpp.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hackerrank/cpp/cmake-build-debug/CMakeFiles/cpp.dir/21-multi-level-inheritance.cpp.obj.d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hackerrank/cpp/cmake-build-debug/CMakeFiles/cpp.dir/3-basic-data-types.cpp.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hackerrank/cpp/cmake-build-debug/CMakeFiles/cpp.dir/3-basic-data-types.cpp.obj.d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hackerrank/cpp/cmake-build-debug/CMakeFiles/cpp.dir/4-conditional-statements.cpp.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hackerrank/cpp/cmake-build-debug/CMakeFiles/cpp.dir/4-conditional-statements.cpp.obj.d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hackerrank/cpp/cmake-build-debug/CMakeFiles/cpp.dir/5-for-loop.cpp.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hackerrank/cpp/cmake-build-debug/CMakeFiles/cpp.dir/5-for-loop.cpp.obj.d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hackerrank/cpp/cmake-build-debug/CMakeFiles/cpp.dir/6-functions.cpp.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hackerrank/cpp/cmake-build-debug/CMakeFiles/cpp.dir/6-functions.cpp.obj.d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hackerrank/cpp/cmake-build-debug/CMakeFiles/cpp.dir/7-pointer.cpp.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hackerrank/cpp/cmake-build-debug/CMakeFiles/cpp.dir/7-pointer.cpp.obj.d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hackerrank/cpp/cmake-build-debug/CMakeFiles/cpp.dir/8-arrays-introduction.cpp.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hackerrank/cpp/cmake-build-debug/CMakeFiles/cpp.dir/8-arrays-introduction.cpp.obj.d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hackerrank/cpp/cmake-build-debug/CMakeFiles/cpp.dir/9-variable-sized-arrays.cpp.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hackerrank/cpp/cmake-build-debug/CMakeFiles/cpp.dir/9-variable-sized-arrays.cpp.obj.d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hackerrank/cpp/cmake-build-debug/CMakeFiles/cpp.dir/DependInfo.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hackerrank/cpp/cmake-build-debug/CMakeFiles/cpp.dir/build.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hackerrank/cpp/cmake-build-debug/CMakeFiles/cpp.dir/cmake_clean.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hackerrank/cpp/cmake-build-debug/CMakeFiles/cpp.dir/compiler_depend.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hackerrank/cpp/cmake-build-debug/CMakeFiles/cpp.dir/compiler_depend.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hackerrank/cpp/cmake-build-debug/CMakeFiles/cpp.dir/depend.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hackerrank/cpp/cmake-build-debug/CMakeFiles/cpp.dir/flags.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hackerrank/cpp/cmake-build-debug/CMakeFiles/cpp.dir/link.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hackerrank/cpp/cmake-build-debug/CMakeFiles/cpp.dir/linklibs.rsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hackerrank/cpp/cmake-build-debug/CMakeFiles/cpp.dir/main.cpp.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hackerrank/cpp/cmake-build-debug/CMakeFiles/cpp.dir/main.cpp.obj.d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hackerrank/cpp/cmake-build-debug/CMakeFiles/cpp.dir/objects.a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hackerrank/cpp/cmake-build-debug/CMakeFiles/cpp.dir/objects1.rsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hackerrank/cpp/cmake-build-debug/CMakeFiles/cpp.dir/progress.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hackerrank/cpp/cmake-build-debug/CMakeFiles/progress.marks" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hackerrank/cpp/cmake-build-debug/Makefile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hackerrank/cpp/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hackerrank/cpp/cmake-build-debug/build.ninja" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hackerrank/cpp/cmake-build-debug/cmake_install.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hackerrank/cpp/cmake-build-debug/cpp.cbp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hackerrank/cpp/main.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hackerrank/data-structures-java/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hackerrank/data-structures-java/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hackerrank/data-structures-java/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hackerrank/data-structures-java/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hackerrank/data-structures-java/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hackerrank/data-structures-java/data-structures-java.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hackerrank/data-structures-java/out/production/data-structures-java/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hackerrank/data-structures-java/out/production/data-structures-java/Result.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hackerrank/data-structures-java/out/production/data-structures-java/_1_2D_Array_DS.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hackerrank/data-structures-java/out/production/data-structures-java/_2_Dynamic_Array.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hackerrank/data-structures-java/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hackerrank/data-structures-java/src/_1_2D_Array_DS.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hackerrank/data-structures-java/src/_2_Dynamic_Array.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hackerrank/java/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hackerrank/java/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hackerrank/java/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hackerrank/java/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hackerrank/java/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hackerrank/java/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hackerrank/java/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hackerrank/java/java.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hackerrank/java/out/production/java/MyRegex.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hackerrank/java/out/production/java/Result.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hackerrank/java/out/production/java/_10_java_static_initializer_block.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hackerrank/java/out/production/java/_11_java_int_to_string.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hackerrank/java/out/production/java/_12_java_date_and_time.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hackerrank/java/out/production/java/_13_java_currency_formatter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hackerrank/java/out/production/java/_14_java_strings_introduction.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hackerrank/java/out/production/java/_15_java_substring.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hackerrank/java/out/production/java/_16_java_substring_comparisons.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hackerrank/java/out/production/java/_17_java_string_reverse.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hackerrank/java/out/production/java/_18_java_anagrams.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hackerrank/java/out/production/java/_19_java_string_tokens.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hackerrank/java/out/production/java/_1_welcome_to_java.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hackerrank/java/out/production/java/_20_java_pattern_syntax_checker.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hackerrank/java/out/production/java/_21_java_regex.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hackerrank/java/out/production/java/_2_java_stdin_and_stdout_I.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hackerrank/java/out/production/java/_3_java_if_else.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hackerrank/java/out/production/java/_4_java_stdin_and_stdout_II.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hackerrank/java/out/production/java/_5_output_formatting.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hackerrank/java/out/production/java/_6_java_loops_I.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hackerrank/java/out/production/java/_7_java_loops_II.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hackerrank/java/out/production/java/_8_java_datatypes.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hackerrank/java/out/production/java/_9_java_end_of_file.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hackerrank/java/src/_10_java_static_initializer_block.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hackerrank/java/src/_11_java_int_to_string.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hackerrank/java/src/_12_java_date_and_time.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hackerrank/java/src/_13_java_currency_formatter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hackerrank/java/src/_14_java_strings_introduction.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hackerrank/java/src/_15_java_substring.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hackerrank/java/src/_16_java_substring_comparisons.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hackerrank/java/src/_17_java_string_reverse.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hackerrank/java/src/_18_java_anagrams.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hackerrank/java/src/_19_java_string_tokens.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hackerrank/java/src/_1_welcome_to_java.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hackerrank/java/src/_20_java_pattern_syntax_checker.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hackerrank/java/src/_21_java_regex.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hackerrank/java/src/_2_java_stdin_and_stdout_I.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hackerrank/java/src/_3_java_if_else.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hackerrank/java/src/_4_java_stdin_and_stdout_II.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hackerrank/java/src/_5_output_formatting.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hackerrank/java/src/_6_java_loops_I.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hackerrank/java/src/_7_java_loops_II.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hackerrank/java/src/_8_java_datatypes.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hackerrank/java/src/_9_java_end_of_file.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kickstart/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kickstart/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kickstart/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kickstart/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kickstart/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kickstart/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kickstart/kickstart.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kickstart/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kickstart/src/_0_SampleProblem.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kickstart/src/_1_CentauriPrime.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,18 +308,26 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\franc\PycharmProjects\coding-practice" />
+      <recent name="C:\Users\franc\PycharmProjects\coding-practice\mini-projects" />
+      <recent name="C:\Users\franc\PycharmProjects\coding-practice\coding-practice" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -55,6 +341,8 @@
       <workItem from="1667952808610" duration="4000" />
       <workItem from="1668816396265" duration="470000" />
       <workItem from="1668869288342" duration="127000" />
+      <workItem from="1673034594344" duration="1343000" />
+      <workItem from="1673036108435" duration="2217000" />
     </task>
     <servers />
   </component>
