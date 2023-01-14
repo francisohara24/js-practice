@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a4f201c4-18ce-4a8c-a8cf-99d557286a11" name="Changes" comment="Add hackerrank: 3-itertools-permutations">
-      <change beforePath="$PROJECT_DIR$/.idea/coding-practice.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/coding-practice.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hackerrank/python/5-itertools-combinations.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -24,11 +23,11 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;
   }
-}]]></component>
+}</component>
   <component name="GithubPullRequestsUISettings">
     <option name="selectedUrlAndAccountId">
       <UrlAndAccount>
@@ -114,6 +113,7 @@
       <workItem from="1673036108435" duration="2217000" />
       <workItem from="1673041184665" duration="20000" />
       <workItem from="1673476037288" duration="893000" />
+      <workItem from="1673661787996" duration="951000" />
     </task>
     <task id="LOCAL-00001" summary="Add hackerrank: 3-itertools-permutations">
       <created>1673476261228</created>
@@ -146,5 +146,6 @@
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/coding_practice$0_two_sum.coverage" NAME="0-two-sum Coverage Results" MODIFIED="1668816643211" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode" />
     <SUITE FILE_PATH="coverage/intro_to_python$3_itertools_permutations.coverage" NAME="3-itertools-permutations Coverage Results" MODIFIED="1673476181491" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/hackerrank/python" />
+    <SUITE FILE_PATH="coverage/intro_to_python$5_itertools_combinations.coverage" NAME="5-itertools-combinations Coverage Results" MODIFIED="1673662786425" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/hackerrank/python" />
   </component>
 </project>
