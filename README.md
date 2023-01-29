@@ -1,5 +1,5 @@
 # python-tutorials
-Code I wrote to learn Python
+Code I wrote to learn Python.
 
 
 Contains the ff mini-projects:
