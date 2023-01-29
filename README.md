@@ -1,5 +1,5 @@
-# intro-to-python
-Code I wrote while taking online course on introduction to python.
+# python-tutorials
+Code I wrote to learn Python
 
 
 Contains the ff mini-projects:
