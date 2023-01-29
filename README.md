@@ -1,6 +1,5 @@
 # python-tutorials
-Code I wrote to learn Python.
-
+Python tutorial programs
 
 Contains the ff mini-projects:
  - Chapter Title Extractor
