@@ -1,8 +1,8 @@
 # intro-to-python
-All code I wrote to learn Python.
+Code I wrote while taking online course on introduction to python.
 
 
-Contains various mini-projects:
+Contains the ff mini-projects:
  - Chapter Title Extractor
  - Email Finder
  - Text Counter
