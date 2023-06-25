@@ -1,9 +1,2 @@
-# python-tutorials
-Python tutorial programs
-
-Contains the ff mini-projects:
- - Chapter Title Extractor
- - Email Finder
- - Text Counter
- - Income Tax Calculator
- - AES Sub-key generator
+# js-practice
+Programs I wrote to practice JavaScript and TypeScript.
