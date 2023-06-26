@@ -4,8 +4,30 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a4f201c4-18ce-4a8c-a8cf-99d557286a11" name="Changes" comment="Update readme for leetcode-30-days-js">
+    <list default="true" id="a4f201c4-18ce-4a8c-a8cf-99d557286a11" name="Changes" comment="update README.md">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1-modules-and-packages/1-modules-and-packages.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/1-modules-and-packages/my_package/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/1-modules-and-packages/my_package/goodbye.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/1-modules-and-packages/my_package/hello.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mini-projects/aes-keygen/AES-keygen.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mini-projects/aes-keygen/readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mini-projects/chapter-title-extractor/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mini-projects/chapter-title-extractor/readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mini-projects/chapter-title-extractor/table-of-contents.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mini-projects/email-finder/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mini-projects/email-finder/readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mini-projects/email-finder/text-files/email-text.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mini-projects/income-tax/0-tax-program.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mini-projects/income-tax/1-tax-file.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mini-projects/income-tax/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mini-projects/income-tax/salaries.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mini-projects/income-tax/salaries_tax.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mini-projects/income-tax/taxer.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mini-projects/text-counter/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mini-projects/text-counter/readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mini-projects/text-counter/text-files/money.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mini-projects/text-counter/text-files/sign.txt" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -118,7 +140,7 @@
       <workItem from="1674954972066" duration="926000" />
       <workItem from="1674991592222" duration="643000" />
       <workItem from="1674998750649" duration="3130000" />
-      <workItem from="1687785851960" duration="623000" />
+      <workItem from="1687785851960" duration="2095000" />
     </task>
     <task id="LOCAL-00001" summary="Add hackerrank: 3-itertools-permutations">
       <created>1673476261228</created>
@@ -165,7 +187,23 @@
       <option name="project" value="LOCAL" />
       <updated>1687786463808</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="update project config files">
+      <option name="closed" value="true" />
+      <created>1687786501105</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1687786501105</updated>
+    </task>
+    <task id="LOCAL-00008" summary="update README.md">
+      <option name="closed" value="true" />
+      <created>1687786655861</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1687786655861</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -189,7 +227,9 @@
     <MESSAGE value="Add hackerrank 10-days-js solutions" />
     <MESSAGE value="Update readme file for 10-days-js" />
     <MESSAGE value="Update readme for leetcode-30-days-js" />
-    <option name="LAST_COMMIT_MESSAGE" value="Update readme for leetcode-30-days-js" />
+    <MESSAGE value="update project config files" />
+    <MESSAGE value="update README.md" />
+    <option name="LAST_COMMIT_MESSAGE" value="update README.md" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/coding_practice$0_two_sum.coverage" NAME="0-two-sum Coverage Results" MODIFIED="1668816643211" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode" />
