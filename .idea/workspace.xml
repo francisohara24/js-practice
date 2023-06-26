@@ -4,68 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a4f201c4-18ce-4a8c-a8cf-99d557286a11" name="Changes" comment="Add hackerrank: 5-itertools-combinations">
+    <list default="true" id="a4f201c4-18ce-4a8c-a8cf-99d557286a11" name="Changes" comment="Update readme for leetcode-30-days-js">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hackerrank/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hackerrank/.idea/hackerrank.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hackerrank/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hackerrank/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hackerrank/algorithms/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hackerrank/algorithms/.idea/algorithms.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hackerrank/algorithms/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hackerrank/algorithms/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hackerrank/algorithms/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hackerrank/algorithms/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hackerrank/algorithms/0-hr-camelcase.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hackerrank/algorithms/1-hr-mars-exploration.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hackerrank/algorithms/10-anagram.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hackerrank/algorithms/11-game-of-thrones-I.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hackerrank/algorithms/12-two-strings.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hackerrank/algorithms/13-string-construction.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hackerrank/algorithms/14-making-anagrams.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hackerrank/algorithms/15-sherlock-and-the-valid-string.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hackerrank/algorithms/16-highest-value-palindrome.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hackerrank/algorithms/17-super-reduced-string.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hackerrank/algorithms/2-hackerrank-in-a-string.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hackerrank/algorithms/3-pangrams.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hackerrank/algorithms/4-funny-string.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hackerrank/algorithms/5-alternating-characters.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hackerrank/algorithms/6-gemstones.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hackerrank/algorithms/7-beautiful-binary-string.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hackerrank/algorithms/8-the-love-letter-mystery.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hackerrank/algorithms/9-palindrome-index.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hackerrank/algorithms/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hackerrank/algorithms/balanced-paranthesis.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hackerrank/algorithms/main.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hackerrank/python/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hackerrank/python/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hackerrank/python/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hackerrank/python/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hackerrank/python/.idea/python.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hackerrank/python/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hackerrank/python/1-alphabet-rangoli.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hackerrank/python/2-the-minion-game.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hackerrank/python/3-itertools-permutations.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hackerrank/python/4-calendar-module.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hackerrank/python/5-itertools-combinations.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hackerrank/python/6-itertools-combinations-with-replacement.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hackerrank/python/7-compress-the-string.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hackerrank/python/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hackerrank/python/main.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode/0-two-sum.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode/leetcode.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice/0-max-profit.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice/1-modules-and-packages.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice/my_package/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice/my_package/goodbye.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice/my_package/hello.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -106,21 +46,23 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "master",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Francis O'Hara Aidoo\PycharmProjects\js-practice" />
       <recent name="C:\Users\franc\PycharmProjects\coding-practice" />
       <recent name="C:\Users\franc\PycharmProjects\coding-practice\mini-projects" />
       <recent name="C:\Users\franc\PycharmProjects\coding-practice\coding-practice" />
@@ -176,6 +118,7 @@
       <workItem from="1674954972066" duration="926000" />
       <workItem from="1674991592222" duration="643000" />
       <workItem from="1674998750649" duration="3130000" />
+      <workItem from="1687785851960" duration="623000" />
     </task>
     <task id="LOCAL-00001" summary="Add hackerrank: 3-itertools-permutations">
       <created>1673476261228</created>
@@ -198,7 +141,31 @@
       <option name="project" value="LOCAL" />
       <updated>1673663356604</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Add hackerrank 10-days-js solutions">
+      <option name="closed" value="true" />
+      <created>1687786408604</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1687786408604</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Update readme file for 10-days-js">
+      <option name="closed" value="true" />
+      <created>1687786439898</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1687786439898</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Update readme for leetcode-30-days-js">
+      <option name="closed" value="true" />
+      <created>1687786463808</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1687786463808</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -219,11 +186,14 @@
     <MESSAGE value="Add hackerrank: 3-itertools-permutations" />
     <MESSAGE value="Add hackerrank: 4-itertools-combinations" />
     <MESSAGE value="Add hackerrank: 5-itertools-combinations" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add hackerrank: 5-itertools-combinations" />
+    <MESSAGE value="Add hackerrank 10-days-js solutions" />
+    <MESSAGE value="Update readme file for 10-days-js" />
+    <MESSAGE value="Update readme for leetcode-30-days-js" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update readme for leetcode-30-days-js" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/coding_practice$0_two_sum.coverage" NAME="0-two-sum Coverage Results" MODIFIED="1668816643211" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode" />
-    <SUITE FILE_PATH="coverage/intro_to_python$3_itertools_permutations.coverage" NAME="3-itertools-permutations Coverage Results" MODIFIED="1673476181491" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/hackerrank/python" />
     <SUITE FILE_PATH="coverage/intro_to_python$5_itertools_combinations.coverage" NAME="5-itertools-combinations Coverage Results" MODIFIED="1673663157085" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/hackerrank/python" />
+    <SUITE FILE_PATH="coverage/intro_to_python$3_itertools_permutations.coverage" NAME="3-itertools-permutations Coverage Results" MODIFIED="1673476181491" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/hackerrank/python" />
   </component>
 </project>
