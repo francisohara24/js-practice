@@ -1,5 +1,5 @@
 /**
- * @file   2_string_interpolation.js
+ * @file   2_stringInterpolation.js
  * @brief  A program to demonstrate string interpolation syntax in JavaScript.
  * @author Francis O'Hara
  * @date   4/12/25
