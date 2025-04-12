@@ -1,3 +1,9 @@
+/**
+ * @file   2_string_interpolation.js
+ * @brief  A program to demonstrate string interpolation syntax in JavaScript.
+ * @author Francis O'Hara
+ * @date   4/12/25
+ */
 let meaning_of_life = 42;
 let string = `${meaning_of_life} is the meaning of Life, the Universe, and Everything.`;
 console.log(string);
